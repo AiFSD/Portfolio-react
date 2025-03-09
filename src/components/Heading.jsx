@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMicrosoft } from "@fortawesome/free-brands-svg-icons"; 
-import "../styles/heading.css";
+import "../styles/Heading.css";
 
 const Heading = () => {
   return (
