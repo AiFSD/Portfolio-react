@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/skills.css";
+import "../styles/Skills.css";
 
 // Import logos for the skills
 import { FaReact, FaHtml5, FaCss3Alt, FaJs, FaBootstrap, FaNodeJs, FaGit, FaGithub, FaDatabase } from "react-icons/fa";
